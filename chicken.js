@@ -1,1 +1,1 @@
-let chicken =  'I am a chicken';
+let chicken =  'Beep boop';
